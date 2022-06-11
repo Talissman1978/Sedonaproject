@@ -878,3 +878,8 @@ padding-top: 55px;
 .modal-form {
   display: none;
 }
+
+.modal-show {
+display: block;
+
+}
